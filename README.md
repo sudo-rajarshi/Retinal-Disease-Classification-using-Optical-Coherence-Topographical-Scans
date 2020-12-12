@@ -12,3 +12,5 @@ Using advanced image processing and deep learning algorithms the results of the 
 
 4. Sensitivity = 99.13 %
 5. Specificity = 97.95 %
+
+Read the paper at https://ieeexplore.ieee.org/document/9276708
