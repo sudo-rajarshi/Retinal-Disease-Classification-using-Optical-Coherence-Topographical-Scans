@@ -14,3 +14,9 @@ Using advanced image processing and deep learning algorithms the results of the 
 5. Specificity = 97.95 %
 
 Read the paper at https://ieeexplore.ieee.org/document/9276708
+
+## Run in your machine:
+* `git clone https://github.com/sudo-rajarshi/Retinal-Disease-Classification-using-Optical-Coherence-Topographical-Scans.git`
+* `cd Retinal-Disease-Classification-using-Optical-Coherence-Topographical-Scans`
+* `pip3 install -r requirements.txt`
+* Open jupyter notebook and enjoy!
