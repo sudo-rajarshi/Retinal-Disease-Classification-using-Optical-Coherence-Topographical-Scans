@@ -19,4 +19,4 @@ Read the paper at https://ieeexplore.ieee.org/document/9276708
 * `git clone https://github.com/sudo-rajarshi/Retinal-Disease-Classification-using-Optical-Coherence-Topographical-Scans.git`
 * `cd Retinal-Disease-Classification-using-Optical-Coherence-Topographical-Scans`
 * `pip3 install -r requirements.txt`
-* Open jupyter notebook and enjoy!
+* Open `jupyter notebook` and enjoy!
