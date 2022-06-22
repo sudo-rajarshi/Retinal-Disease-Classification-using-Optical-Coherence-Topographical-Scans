@@ -2,7 +2,7 @@ psutil==5.7.3
 tensorflow==2.4.0
 mlxtend==0.18.0
 matplotlib==3.3.3
-numpy==1.19.5
+numpy==1.22.0
 opencv_python==4.5.1.48
 keras==2.4.3
 scikit_learn==0.24.1
